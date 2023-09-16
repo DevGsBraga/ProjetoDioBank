@@ -34,20 +34,10 @@ export const Usuarios = ({email , senha}:Usuario) => {
         </Box>
       </Center>
 
-
             </Center>
 
-
-
-
-
-
-
         </ChakraProvider>
-
-
     );
-
 }
 
 
